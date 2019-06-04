@@ -1,0 +1,1 @@
+# kata-FoobarQix_Functional
